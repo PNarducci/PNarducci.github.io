@@ -1,11 +1,11 @@
 # Site settings
 author: Paul Narducci
-title: A Look at Use of Force in Indianapolis 
+title: Paul's Blog
 header-img: img/home-bg.png
 email: paulvnar@gmail.com
 copyright_name: Paul Narducci
 description: > # this means to ignore newlines until "baseurl:"
-  Applying machine learning to use of force by the IMPD
+  Blogging about things that interest me
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  PNarducci
